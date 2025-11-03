@@ -1,0 +1,9 @@
+Current Ownership : Adam.j
+Design & Ideas: Amy
+Main Coder : Adam.j
+Second Coder : Jake
+Third Coder : Omar
+Frontend : Jake
+Backend : Adam.j
+Bug Fixer : Adam.j & Omar
+
