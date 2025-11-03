@@ -9,6 +9,9 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Skunk.io - Discord Bot',
   description: 'A Bot Made For Luxury',
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
@@ -18,7 +21,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <head>
+        <meta name="theme-color" content="#000000" />
+      </head>
+      <body className={`${inter.className} bg-black text-white`}>
         <Navigation />
         <main className="min-h-screen">{children}</main>
         <Footer />
