@@ -16,7 +16,7 @@ export default function Home() {
             />
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 panicko-font">
-            SKUNK.IO BOT
+            SKUNK.IO
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">
             Welcome to Skunk.io
