@@ -61,7 +61,7 @@ export default function FlipCard() {
                 transition: 'color 0.3s ease',
               }}
             >
-              SKUNK.IO
+              Flip Me.
             </h2>
           </div>
 
@@ -84,7 +84,7 @@ export default function FlipCard() {
             }}
           >
             <p className="text-xl text-white font-medium">
-              A Bot Made For Luxury.
+              A Bot Made For Luxury & Speed.
             </p>
           </div>
         </div>
