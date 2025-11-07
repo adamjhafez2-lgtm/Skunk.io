@@ -61,7 +61,7 @@ export default function FlipCard() {
                 transition: 'color 0.3s ease',
               }}
             >
-              Flip Me.
+              FLIP ME.
             </h2>
           </div>
 
