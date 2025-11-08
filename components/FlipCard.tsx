@@ -84,7 +84,7 @@ export default function FlipCard() {
             }}
           >
             <p className="text-xl text-white font-medium">
-              A Bot Made For Luxury & Speed.
+              A Bot Made For Luxury , Speed & Comfort.
             </p>
           </div>
         </div>
