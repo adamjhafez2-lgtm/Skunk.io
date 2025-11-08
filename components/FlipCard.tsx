@@ -61,7 +61,7 @@ export default function FlipCard() {
                 transition: 'color 0.3s ease',
               }}
             >
-              FLIP ME.
+              Skunk.io
             </h2>
           </div>
 
