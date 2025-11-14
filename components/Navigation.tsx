@@ -8,9 +8,9 @@ export default function Navigation() {
   const pathname = usePathname();
 
   const links = [
-    { href: '/', label: 'Home' },
+    { href: '/', label: 'Homepage' },
     { href: '/credits', label: 'Credits' },
-    { href: '/license', label: 'License' },
+    { href: '/license', label: 'Licensing' },
   ];
 
   return (

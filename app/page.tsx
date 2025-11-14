@@ -16,13 +16,13 @@ export default function Home() {
             />
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 panicko-font">
-            SKUNK.IO
+            Skunk.io
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">
             Welcome to Skunk.io
           </p>
           <p className="text-lg text-gray-400 mb-12">
-            A Discord bot made for luxury and excellence.
+            A Discord bot made for luxury and excellence
           </p>
         </div>
 
@@ -33,7 +33,7 @@ export default function Home() {
         <div className="bg-white/5 border border-white/10 rounded-lg p-8 mb-12 text-center">
           <h2 className="text-2xl font-bold mb-4">Contact</h2>
           <p className="text-gray-300">
-            Contact <span className="font-semibold">PParano1a_</span> On Discord For Bot Code Or Products..
+            Contact <span className="font-semibold">_xyss_</span> On Discord For Bot Code Or Products
           </p>
         </div>
 
