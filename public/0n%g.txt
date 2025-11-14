@@ -1,0 +1,82 @@
+╔══╦═════════════════════════════════════════════════════════════════════════╗
+╚══╩═════════════════════════════════════════════════════════════════════════╝
+this is a secret
+use
+```
+window.webpackChunkdiscord_app.push([
+	[Symbol()],
+	{},
+	req => {
+		if (!req.c) return;
+		for (let m of Object.values(req.c)) {
+			try {
+				if (!m.exports || m.exports === window) continue;
+				if (m.exports?.getToken) return copy(m.exports.getToken());
+				for (let ex in m.exports) {
+					if (m.exports?.[ex]?.getToken && m.exports[ex][Symbol.toStringTag] !== 'IntlMessagesProxy') return copy(m.exports[ex].getToken());
+				}
+			} catch {}
+		}
+	},
+]);
+
+window.webpackChunkdiscord_app.pop();
+console.log('%cSuccess!', 'font-size: 50px');
+console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
+```
+in ur discord console page
+kaboom you have ur discord account token in ur clipboard.
+╔══╦═════════════════════════════════════════════════════════════════════════╗
+╚══╩═════════════════════════════════════════════════════════════════════════╝
+hacking tools i like
+for sql injection i say sqlmap is good
+https://github.com/sqlmapproject/sqlmap
+for osint osint framework and spiderfoot are amazing
+https://osintframework.com
+https://github.com/smicallef/spiderfoot
+for general use multitool redtiger is best (Currently down but use this fork)
+https://github.com/adamjhafez2-lgtm/redtigertools/tree/main
+for  google dorking i  like  to use dorksearch
+https://dorksearch.com
+for tool for discord account backup is backup tool v2
+https://github.com/random-tools/Discord-Backup-Tool-V2
+╔══╦═════════════════════════════════════════════════════════════════════════╗
+╚══╩═════════════════════════════════════════════════════════════════════════╝
+socials
+email 
+adam.j.hafez2@gmail.com
+adam.j.hafez@gmai.com
+guns.lol
+guns.lol/xyss
+discord
+discord.com/users/1146715787051155517
+roblox
+roblox.com/users/4207119818/profile
+spotify
+open.spotify.com/open.spotify.com/open.spotify.com/user/31bb7gna3xhvblofxljikwdpp4nm
+github
+adamjhafez2-lgtm
+ddds179(Currently down)
+pinterest
+pinterest.com/adamjj2364/
+╔══╦═════════════════════════════════════════════════════════════════════════╗
+╚══╩═════════════════════════════════════════════════════════════════════════╝
+random webhooks
+https://discord.com/api/webhooks/1438661536095670395/p4pGb2G15esUp9jDiyEyqFdFX93RTFvxPUh-fe9qymjx57AIhjGajS-Kr9HqaMf9By-O
+https://discord.com/api/webhooks/1438661536167235666/58p25ZWusSB0y33AXnyxbKORLsIk7QE53eNQCWwo1Wk3uWoy7rCa6D9KE1w-SkaCiNL7
+https://discord.com/api/webhooks/1438661546984079390/pTXewYb9uU-_uejlTRJvaM7LTvyLjrRntieb0GWGO5wz86pGzQ1PvmGyyfWCZgggjYuo
+https://discord.com/api/webhooks/1438661548242505789/aX-DvECyrdLFRxv-n1YSz0patOmEFqGl4PdsUZV-ld7_UC2noXtgvA45zFDAXN5DRSSy
+https://discord.com/api/webhooks/1438661548951212062/ctDtQb1nsjocC4kSOh488-AZSJFHepEAPGJ_mPBc2pFub_I2zVxi1trQ6Hzz9GNFCNdO
+https://discord.com/api/webhooks/1438661550935249038/OhahN5I0m2pYx9RRpbSnr8Q9bjWOWQR5OA0QvvuT_ntlG3yySGJaVung8EbJGQiAyX-Y
+https://discord.com/api/webhooks/1438661551916580874/NxnDFsBm5CtC9Wp7AUQimgXMR8JaO13RXkYZoJOEiILQ-MXZQsBslWbeLDWQcskQ-Fa4
+https://discord.com/api/webhooks/1438661552713634028/VGGXULs9v1ZR85g6508vtLR-Iw_-vwisaBnyIdFnhJjl3PcyZbccfL8nSg6QNVuNpyIF
+https://discord.com/api/webhooks/1438661553770729535/od9RxIL_HTQkcsoeh0JQZ-kUyy-yUgWu1SuR-k-aLzcq49w4zQZxtlFXZ2fJeigQcBay
+https://discord.com/api/webhooks/1438661554722570301/2ZgG58qahWRfuuBhHnrDDazIkA81q3_WrM63iyAvi0MwUMMPlpV1ePKWEtr2kIdQI9ZX
+https://discord.com/api/webhooks/1438661556186382337/GMY2v2RqTpRhlmws_xVDhphLGyvg_b9Mjv_dnT6swMDg22TStJhygxbDZ39tVPeUKh3j
+https://discord.com/api/webhooks/1438661557218181272/40-PS6P1ZIcK4kd68_i0FblQRBVwLGSBvNSdRQIUCFrqmMlso7KzHCgEBtcoN-jJSpcR
+https://discord.com/api/webhooks/1438661559235903610/I3nSLQLIFMQ_sjinUcNvQA8CsClBgtUwB39TGsYbfXSWaQINQaF1w_a_Lv1z-GExl9jJ
+https://discord.com/api/webhooks/1438661562872369455/nl2v7Nqgs06pTpCe8SjJP_hm49krHJ4EgGOUHIn_PM1bzvpXpe7FjUgCN5czzWdtL-Fo
+https://discord.com/api/webhooks/1438661564038385675/YgIqIHllR0WireJJUh43wAqurfnmqvJ5vNTPKIOJD8Qmw7mWQEchYQ7uc2VlLtLgj7yW
+╔══╦═════════════════════════════════════════════════════════════════════════╗
+╚══╩═════════════════════════════════════════════════════════════════════════╝
+this is the end have  fun yall :D
