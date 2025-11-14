@@ -6,7 +6,7 @@ export default function License() {
   const [licenseText, setLicenseText] = useState('Loading...');
 
   useEffect(() => {
-    fetch('https://raw.githubusercontent.com/ddds179/Skunk.io/main/LICENSE')
+    fetch('https://pastebin.com/raw/VPvj3xY4')
       .then((response) => response.text())
       .then((text) => setLicenseText(text))
       .catch((error) => {
@@ -19,7 +19,7 @@ export default function License() {
     <div className="container mx-auto px-4 py-16">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-5xl md:text-6xl font-bold mb-12 text-center panicko-font">
-          LICENSE
+          License
         </h1>
 
         <div className="bg-white/5 border border-white/10 rounded-lg p-8 md:p-12">
