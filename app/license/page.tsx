@@ -6,7 +6,7 @@ export default function License() {
   const [licenseText, setLicenseText] = useState('Loading...');
 
   useEffect(() => {
-    fetch('https://pastebin.com/raw/VPvj3xY4')
+    fetch('https://pastebin.com/VPvj3xY4')
       .then((response) => response.text())
       .then((text) => setLicenseText(text))
       .catch((error) => {
