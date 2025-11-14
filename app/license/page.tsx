@@ -6,7 +6,7 @@ export default function License() {
   const [licenseText, setLicenseText] = useState('Loading...');
 
   useEffect(() => {
-    fetch('https://pastebin.com/VPvj3xY4')
+    fetch('https://raw.githubusercontent.com/adamjhafez2-lgtm/Skunk.io/main/License')
       .then((response) => response.text())
       .then((text) => setLicenseText(text))
       .catch((error) => {
